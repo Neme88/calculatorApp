@@ -1,77 +1,96 @@
-Calculator Web Application
+# Calculator Web Application
 
 This is a simple web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and squaring a number. The application is built using HTML, CSS, and JavaScript.
 
-Technologies Used:
-    HTML5: Provides the basic structure of the application.
-    CSS3: Used for styling the application to make it visually appealing.
-    JavaScript: Implements the logic for the arithmetic operations and handles user interactions.
+## Table of Contents
+- Overview
+- Features
+- Installation
+- Usage
+- Project Structure
+- Future Development
+- License
+- Contributing
+- Contact
 
-Features
-    Addition of two numbers
-    Subtraction of two numbers
-    Multiplication of two numbers
-    Division of two numbers with error handling for division by zero
-    Squaring a single number
+## Overview
 
-Usage
+The **Calculator Web Application** enables users to perform basic arithmetic calculations in a user-friendly interface. It handles basic math operations like addition, subtraction, multiplication, division, and squaring of numbers.
 
-Running the Application
-    Clone the Repository
+## Features
+- **Addition**: Add two numbers and view the result.
+- **Subtraction**: Subtract two numbers with instant result display.
+- **Multiplication**: Multiply two numbers with the result shown below.
+- **Division**: Divide two numbers with error handling for division by zero.
+- **Square**: Square a single number for quick calculation.
+
+## Installation
+
+### Prerequisites
+No additional software is required. The application can be run directly in any modern web browser.
+
+### Installation Steps
+
+1. ### Clone the Repository:
+    Clone the project repository to your local machine:
+    ```bash
     git clone https://github.com/Neme88/calculatorApp.git
+    ```
+
+2. ### Navigate to the project directory:
+    ```bash
     cd calculatorApp
-    
-Open the HTML File
-    Open index.html in your preferred web browser.
+    ```
 
-Performing Operations
+3. ### Open the HTML file:
+    Open the `index.html` file in your preferred web browser.
 
-Addition
-    Enter the first number in the "Number A" field.
-    Enter the second number in the "Number B" field.
-    Click the "Add" button.
-    The result will be displayed below the buttons.
+## Usage
 
-Subtraction
-    Enter the first number in the "Number A" field.
-    Enter the second number in the "Number B" field.
-    Click the "Subtract" button.
-    The result will be displayed below the buttons.
+Once the application is opened in your web browser, you can perform the following operations:
 
-Multiplication
-    Enter the first number in the "Number A" field.
-    Enter the second number in the "Number B" field.
-    Click the "Multiply" button.
-    The result will be displayed below the buttons.
+- **Addition**: Enter two numbers in the respective fields and click the "Add" button.
+- **Subtraction**: Enter two numbers and click the "Subtract" button.
+- **Multiplication**: Enter two numbers and click the "Multiply" button.
+- **Division**: Enter two numbers and click the "Divide" button. If the second number is zero, an error message will be shown.
+- **Square**: Enter a number and click the "Square" button to get the result.
 
-Division
-    Enter the first number in the "Number A" field.
-    Enter the second number in the "Number B" field.
-    Click the "Divide" button.
-    The result will be displayed below the buttons.
-    If the second number is zero, an error message will be displayed.
+The result for each operation will be displayed below the buttons.
 
-Square
-    Enter the number in the "Number A" field.
-    Click the "Square" button.
-    The result will be displayed below the buttons.
+## Project Structure
 
-Project Structure
-    index.html: The main HTML file that contains the structure of the application.
-    styles.css: The CSS file that contains styles for the application.
-    script.js: The JavaScript file that contains the logic for the arithmetic operations.
+The Calculator Web Application project consists of the following main files:
 
-Future Development
-More features will be added in the near future as the aim is to build a full-fledged web calculator. This will include additional functionalities such as advanced mathematical operations, a better user interface, and more customization options.
+- **index.html**: The main HTML file containing the structure of the web page.
+- **styles.css**: The CSS file responsible for the visual styling of the application.
+- **script.js**: The JavaScript file that contains the logic for handling arithmetic operations.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Future Development
 
-Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+In the future, additional features will be implemented to enhance the functionality of the calculator, such as:
 
-Contact
-If you have any questions or suggestions, feel free to reach out at [ccnwaka1988@gmail.com].
+- Advanced mathematical operations like trigonometry and logarithms.
+- A more user-friendly interface with responsive design.
+- Customization options for themes and layouts.
 
+## License
 
+This project is open-source and licensed under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+
+We welcome contributions to improve the Calculator Web Application. To contribute:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request with a detailed explanation of your changes.
+
+## Contact
+
+For any inquiries, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [ccnwaka1988@gmail.com](mailto:ccnwaka1988@gmail.com)
+- **GitHub**: [https://github.com/Neme88](https://github.com/Neme88)
+- **LinkedIn**: [https://www.linkedin.com/in/Neme88/](https://www.linkedin.com/in/Neme88/)
+- **X**: [https://x.com/Neme_88](https://x.com/Neme_88)
 
