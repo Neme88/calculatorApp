@@ -89,6 +89,10 @@ We welcome contributions to improve the Calculator Web Application. To contribut
 
 For any inquiries, suggestions, or feedback, feel free to reach out:
 
+### Author
+
+**Chinemerem .C. Nwaka**
+
 - **Email**: [ccnwaka1988@gmail.com](mailto:ccnwaka1988@gmail.com)
 - **GitHub**: [https://github.com/Neme88](https://github.com/Neme88)
 - **LinkedIn**: [https://www.linkedin.com/in/Neme88/](https://www.linkedin.com/in/Neme88/)
